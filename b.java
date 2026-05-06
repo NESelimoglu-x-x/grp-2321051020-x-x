@@ -1,1 +1,1 @@
-//b changed
+class B {}
